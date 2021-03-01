@@ -1,1 +1,1 @@
-# AtividadeHTML
+Nessa atividade, foi nos pedido para fazer um modelo de site em HTML como o do exemplo abaixo.![Atividade HTML fw](https://user-images.githubusercontent.com/74736451/109449687-d7eed980-7a27-11eb-9008-127171a3340a.png)
